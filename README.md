@@ -32,5 +32,5 @@ Dự án thương mại điện tử bán giày, áo đấu và phụ kiện bó
 ### Trang quản lý admin
 ![Dashboard](https://github.com/user-attachments/assets/3217393f-a79b-46ff-b623-7241844f7776)
 
-### Chatbot & thanh toán
+### Thanh toán
 ![Chatbot + Payment](https://github.com/user-attachments/assets/70c0e42d-8ecb-4eec-a692-64db8d9037fa)
