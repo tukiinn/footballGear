@@ -15,7 +15,7 @@ Dự án thương mại điện tử bán giày, áo đấu và phụ kiện bó
 ## 🛠️ Công nghệ sử dụng
 
 - **Backend**: Laravel, MySQL
-- **Frontend**: Bootstrap, Font Awesome, CKEditor, CropJS
+- **Frontend**: Bootstrap 5, jQuery, Font Awesome, Bootstrap Icons, jQuery UI, SweetAlert2, Toastr
 - **Thanh toán**: Momo, VNPay (callback + trạng thái đơn)
 - **Tự động hóa**: Dialogflow chatbot, ChartJS
 - **Khác**: API địa chỉ Việt Nam, xuất báo cáo Excel, in đơn hàng...
